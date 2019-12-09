@@ -1,6 +1,4 @@
-// #include <bits/stdint-uintn.h>
 #include <cstdint>
-// #include <stdint.h>
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
